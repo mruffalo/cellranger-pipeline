@@ -1,0 +1,6 @@
+sample_id: "test"
+fastq_dirs:
+  - class: Directory
+    path: /data/cellranger-1
+  - class: Directory
+    path: /data/cellranger-2
